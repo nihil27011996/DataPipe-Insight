@@ -128,7 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-
-# Ignore Node.js packages in the backend folder
-backend/node_modules/
